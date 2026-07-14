@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Mikhail i'm Backend Software Engineer
 
-Welcome to my profile. I've been programming for 6 years and have worked with many languages and projects, and I love learning new technologies.
+Welcome to my profile. I've been programming for 6 years and have worked with many languages and projects, i love learning new technologies and interesting things.
 ## main stack
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/></code>
