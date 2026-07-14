@@ -1,5 +1,5 @@
-## Hi there 👋 My name is Mikhail
-Backend Software Engineer
+## Hi there 👋 My name is Mikhail i'm Backend Software Engineer
+
 Welcome to my profile. I've been programming for 6 years and have worked with many languages and projects, and I love learning new technologies.
 ## main stack
 <div align="center">
